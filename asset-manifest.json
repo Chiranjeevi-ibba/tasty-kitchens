@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tasty-kitchens/static/css/main.16537018.css",
+    "main.js": "/tasty-kitchens/static/js/main.826a3e9d.js",
+    "static/media/failure-view.png": "/tasty-kitchens/static/media/failure-view.6a0e0be7e12838c8f88b.png",
+    "static/media/slick.svg": "/tasty-kitchens/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/tasty-kitchens/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/tasty-kitchens/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/tasty-kitchens/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/tasty-kitchens/index.html",
+    "main.16537018.css.map": "/tasty-kitchens/static/css/main.16537018.css.map",
+    "main.826a3e9d.js.map": "/tasty-kitchens/static/js/main.826a3e9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16537018.css",
+    "static/js/main.826a3e9d.js"
+  ]
+}
